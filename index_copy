@@ -1,0 +1,80 @@
+<html>
+	<head>
+		<title>StudyLink</title>
+		<style>
+			body{
+				width: 1000px;
+				margin: 0 auto;
+			}
+			#main{
+				background-color: lightgray;
+			}
+			h1{
+				color: green;
+				font-size: 4rem;
+			}
+			h3{
+				color: yellow;
+				font-size: 2rem;
+			}
+			li{
+				font-size: 1.5rem;
+			}
+		</style>
+	</head>
+	<body>
+		<div id='main'>
+			<h1 align='center'>StudyLink</h1>
+		
+			<h2 align='center'><Курс HTML/CSS></h2>
+		
+			<h3 align='center'>Юрій Мудрик</h3>
+			
+			<ol>
+				<li>Вступний урок
+					<ol>
+						<li>
+						https://github.com/redgoblinone/redgoblinone.github.io/blob/master					
+						</li>
+					</ol>
+				
+				</li>
+				<li>Заголовки, введення в CSS
+					<ol>
+						<li>
+						https://github.com/redgoblinone/redgoblinone.github.io/blob/master/t2/z1.htm				
+						</li>
+					</ol>
+				</li>
+				<li>Форматування тексту і фон сторінки
+					<ol>
+						<li>
+						https://github.com/redgoblinone/redgoblinone.github.io/blob/master/t3/z1.html
+						
+						</li>
+						<li>
+						https://github.com/redgoblinone/redgoblinone.github.io/blob/master/t3/z2.html
+						
+						</li>
+					</ol>				
+				</li>
+				<li>Списки, тег hr
+					<ol>
+						<li>
+							https://github.com/redgoblinone/redgoblinone.github.io/blob/master/t4/z1.html
+						</li>
+					</ol>
+				</li>
+				<li>Самостійна робота
+					<ol>
+						<li>
+							https://github.com/redgoblinone/redgoblinone.github.io/blob/master/t4/z2.html						
+						</li>
+					</ol>				
+				</li>
+			</ol>
+			<a href="https://www.facebook.com/hostlife.net" target="_blank" rel="nofollow"><img src="/images/soc_1.png" alt="HOSTLIFE в Facebook"></a>
+			</ol>
+		<div>	
+	</body>
+</html>
